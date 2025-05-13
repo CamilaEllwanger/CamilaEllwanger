@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👩🏻‍💻 Camila Ellwanger
 
-<!--
-**CamilaEllwanger/CamilaEllwanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`📊 Estudante de Ciências de Dados`**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📚 Áreas de Interesse
+
+- 📊 Análise de Dados e Machine Learning  
+- 📡 Big Data e Inteligência Artificial  
+- 📈 Visualização de Dados  
+- 💼 Ciência de Dados aplicada a Negócios  
+   > Foco em transformar dados em valor para empresas: melhorar vendas, reduzir custos, prever demanda
+
+---
+
+### 💻 Ferramentas que utilizo
+
+- 🐍 Python  
+- 📊 R  
+- 🗄️ SQL  
+- 📊 Power BI
+
+<!-- Stats aqui continuam iguais -->
